@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# ide生成文件
+/.idea/**
+spider.iml

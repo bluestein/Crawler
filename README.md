@@ -8,10 +8,5 @@
 > python：3.4.3
 ---
 
-## 存在的问题
-> 有页面会出现如下错误（找了很多资料也不行），暂时未解决
-```UnicodeDecodeError: 'utf-8' codec can't decode bytes in position 58903-58904: invalid continuation byte```
----
-
 ## 更新说明
 2015/8/15：跟新QSBK.py，以后会更新其他语言的版本，敬请期待
